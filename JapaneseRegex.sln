@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JapaneseRegex", "JapaneseRegex\JapaneseRegex.csproj", "{57028BFE-4227-4904-83FB-3A36825980CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Japanese.Regex.Samples", "Japanese.Regex.Samples\Japanese.Regex.Samples.csproj", "{D4D2E359-3C8D-40DF-8DB7-3EED15F93403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57028BFE-4227-4904-83FB-3A36825980CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57028BFE-4227-4904-83FB-3A36825980CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57028BFE-4227-4904-83FB-3A36825980CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57028BFE-4227-4904-83FB-3A36825980CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4D2E359-3C8D-40DF-8DB7-3EED15F93403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D2E359-3C8D-40DF-8DB7-3EED15F93403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D2E359-3C8D-40DF-8DB7-3EED15F93403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D2E359-3C8D-40DF-8DB7-3EED15F93403}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21C13E87-D926-4F00-8C23-30574679B1E4}
+	EndGlobalSection
+EndGlobal
